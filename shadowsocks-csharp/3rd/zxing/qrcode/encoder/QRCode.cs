@@ -19,10 +19,6 @@ using System.Text;
 
 namespace ZXing.QrCode.Internal
 {
-   public class Qinezh
-   {
-      
-   }
    /// <author>satorux@google.com (Satoru Takabayashi) - creator</author>
    /// <author>dswitkin@google.com (Daniel Switkin) - ported from C++</author>
    public sealed class QRCode
