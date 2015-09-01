@@ -21,10 +21,6 @@ namespace ZXing.QrCode.Internal
 {
    /// <author>satorux@google.com (Satoru Takabayashi) - creator</author>
    /// <author>dswitkin@google.com (Daniel Switkin) - ported from C++</author>
-   public class Qinezh
-   {
-      
-   }
    public sealed class QRCode
    {
       /// <summary>
@@ -35,6 +31,10 @@ namespace ZXing.QrCode.Internal
       /// <summary>
       /// Initializes a new instance of the <see cref="QRCode"/> class.
       /// </summary>
+      public class Qinezh 
+      {
+         
+      }
       public QRCode()
       {
          MaskPattern = -1;
