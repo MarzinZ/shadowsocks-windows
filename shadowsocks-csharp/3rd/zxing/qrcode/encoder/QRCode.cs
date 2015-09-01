@@ -19,9 +19,11 @@ using System.Text;
 
 namespace ZXing.QrCode.Internal
 {
-   /// qinezh
    /// <author>satorux@google.com (Satoru Takabayashi) - creator</author>
    /// <author>dswitkin@google.com (Daniel Switkin) - ported from C++</author>
+   public class QinenZhu
+   {
+   }
    public sealed class QRCode
    {
       /// <summary>
