@@ -19,6 +19,10 @@ using System.Text;
 
 namespace ZXing.QrCode.Internal
 {
+   public class Qinezh
+   {
+      
+   }
    /// <author>satorux@google.com (Satoru Takabayashi) - creator</author>
    /// <author>dswitkin@google.com (Daniel Switkin) - ported from C++</author>
    public sealed class QRCode
@@ -31,10 +35,6 @@ namespace ZXing.QrCode.Internal
       /// <summary>
       /// Initializes a new instance of the <see cref="QRCode"/> class.
       /// </summary>
-      public class Qinezh 
-      {
-         
-      }
       public QRCode()
       {
          MaskPattern = -1;
