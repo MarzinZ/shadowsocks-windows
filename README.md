@@ -1,4 +1,4 @@
-[for test001] Shadowsocks for Windows
+[for test002] Shadowsocks for Windows
 =======================
 
 [![Build Status]][Appveyor]
